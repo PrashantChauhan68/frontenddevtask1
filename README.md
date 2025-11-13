@@ -12,6 +12,7 @@ It demonstrates components, API integration, and basic routing.
 - Axios (for API calls)
 
 ##Folder Structure
+
 src/
 ├── components/
 │   ├── Header.js
