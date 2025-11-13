@@ -11,6 +11,7 @@ It demonstrates components, API integration, and basic routing.
 - JavaScript  
 - Axios (for API calls)
 
+##Folder Structure
 src/
 ├── components/
 │   ├── Header.js
